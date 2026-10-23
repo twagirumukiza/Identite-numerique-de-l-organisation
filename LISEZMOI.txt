@@ -1,0 +1,5 @@
+Site du cours - Theme 2 : Preserver l'identite numerique de l'organisation
+Mise en ligne : envoyer tout le contenu de ce dossier (index.html, assets/, downloads/) a la racine d'un hebergement statique (GitHub Pages, etc.).
+Test local : ouvrir index.html dans un navigateur.
+Lien LinkedIn : par defaut https://www.linkedin.com/in/twagirumukiza/ -> a remplacer dans index.html (chercher "linkedin.com").
+Lien "Mon site" : https://twagirumukiza.github.io -> a remplacer de la meme facon.
